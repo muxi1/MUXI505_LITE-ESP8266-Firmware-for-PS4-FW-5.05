@@ -15,3 +15,9 @@ Backup v2
 Dumper v1.8
 
 App2USB v1
+
+
+Network Settings: set WIFI to custom and everything else to automatic.
+
+WIFI-Name: MUXI505_v2.0
+WIFI-Password: muxi2018
