@@ -1,4 +1,4 @@
-WIFI-Name: muxi505_Lite / muxi505_v2.9_OCE
+WIFI-Name: muxi505_Lite / muxi505_Lite_OCE
 
 Passwort: muxi2018
 
