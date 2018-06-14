@@ -1,6 +1,6 @@
 PS4 ESP8266-Host-Firmware für FW 5.05
 
-WIFI-Name: muxi505_Lite
+WIFI-Name: muxi505_Lite / muxi505_v2.9_OCE
 
 Passwort: muxi2018
 
