@@ -26,3 +26,5 @@ DUMPER v1.8
 Backup v2
 
 App2USB v1
+
+Muxi505_Lite_OVE = Offline Cache Edition 
