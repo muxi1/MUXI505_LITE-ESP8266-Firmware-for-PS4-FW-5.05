@@ -1,4 +1,4 @@
-WIFI-Name: muxi505_Lite / muxi505_Lite_OCE
+WIFI-Name: muxi505_Lite_OCE
 
 Passwort: muxi2018
 
@@ -17,14 +17,12 @@ ORIGINAL (BIN-Loader) v1
 
 Mira CFW v1
 
-HEN v1.6
+HEN v1.7
 
 FTP v1.3
 
 DUMPER v1.8
 
-Backup v2
+Backup v3
 
-App2USB v1
-
-Muxi505_Lite_OCE = Offline Cache Edition 
+App2USB v3
