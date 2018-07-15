@@ -1,21 +1,10 @@
-WIFI-Name: muxi505_Lite_OCE
-
-Passwort: muxi2018
-
-
-
-Setup Wifi Network to custom and set everthing else to automatic. 
-
-
-
-
-Following Payloads are included:
+The following Payloads are included:
 
 
 
 ORIGINAL (BIN-Loader) v1
 
-Mira CFW v1
+Mira CFW (Mira+HEN) v1
 
 HEN v1.7
 
