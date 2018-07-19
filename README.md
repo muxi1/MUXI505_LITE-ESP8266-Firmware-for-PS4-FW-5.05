@@ -2,9 +2,9 @@ The following Payloads are included:
 
 
 
-ORIGINAL (BIN-Loader+HEN)
+ORIGINAL (BIN-Loader+HEN v1.7)
 
-Mira CFW (Mira+HEN) v1
+Mira CFW (Mira+HEN v1.7)
 
 HEN v1.7
 
